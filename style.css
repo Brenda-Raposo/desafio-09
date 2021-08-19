@@ -1,0 +1,16 @@
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
+.container {
+  flex-wrap: nowrap;
+justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
